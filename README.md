@@ -6,7 +6,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
   ![Python](https://img.shields.io/badge/-Python-05122A?&logo=python)
   ![VB](https://img.shields.io/badge/-VisualBasic-05122A?&logo=VisualBasic)
-  ![C#](https://img.shields.io/badge/-c%23-05122A?&logo=c-sharp)
+  ![C#](https://img.shields.io/badge/-C%23-05122A?&logo=c-sharp)
   ![Android](https://img.shields.io/badge/-Android-05122A?&logo=Android)
   ![Java](https://img.shields.io/badge/-Java-05122A?&logo=Java)
 
