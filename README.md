@@ -29,7 +29,7 @@
   ![Prestashop](https://img.shields.io/badge/-Prestashop-05122A?&logo=Prestashop)
   ![Paypal](https://img.shields.io/badge/-Paypal-05122A?&logo=Paypal)
 
-- Libraries and tools
+- Librerías y Utilidades
   
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=GitHub)
